@@ -1,0 +1,1 @@
+Nunca utilize tal código para criptografar ou manipular arquivos sem permissão explícita
